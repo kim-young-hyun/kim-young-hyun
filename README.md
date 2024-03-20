@@ -24,8 +24,8 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![clion](https://img.shields.io/badge/clion-000000.svg?&style=for-the-badge&logo=clion&logoColor=white)
+![eclipseide](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 <br>
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
